@@ -1,0 +1,559 @@
+|5creature|4|6human warrior|7|8&^^^/&^|9you may exert @ as it attacks. when you do, it gets +&^/+&^^^ and gains lifelink until end of turn.|3{^WW}|0A|1glory~bound initiate|
+
+|5creature|4|6hyena|7|8&^^^/&^^^^|9|3{^^RRRR}|0O|1hyena pack|
+
+|5creature|4|6crab|7|8&^/&^^^^^|9|3{^UUUU}|0O|1ancient crab|
+
+|5land|4basic|6swamp|7|8|9|3|0L|1swamp|
+
+|5creature|4|6angel|7|8&^^^/&^^^|9flying\vigilance\cycling {WW}|3{^^^^^WW}|0O|1winged shepherd|
+
+|5land|4basic|6island|7|8|9|3|0L|1island|
+
+|5instant|4|6|7|8|9uncast target spell.|3{^UUUU}|0O|1cancel|
+
+|5sorcery|4|6|7|8|9destroy target creature or planeswalker.|3{^BBBB}|0A|1never|
+|5sorcery|4|6|7|8|9aftermath\exile target card from a graveyard. create a &^^/&^^ black zombie creature token.|3{^^^BB}|0A|1return|
+
+|5creature|4|6drake|7|8&^^^^/&^^^^|9flying\when @ enters the battlefield, you may return target creature to its owner's hand.|3{^^^^UUUU}|0N|1angler drake|
+
+|5creature|4|6human cleric|7|8&^/&^^^|9embalm {^^^WW}\whenever a creature token enters the battlefield under your control, you gain &^ life.|3{^WW}|0O|1anointer priest|
+
+|5creature|4|6cat snake|7|8&^^^^/&^^^|9@ can't be uncasted.\creature spells you control can't be uncasted.|3{^GGGG}|0A|1prowling serpopard|
+
+|5creature|4|6jackal warrior|7|8&^/&^^^|9prowess|3{^RR}|0O|1nimble~blade khenra|
+
+|5creature|4|6human cleric|7|8&^^/&^^|9whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn't a mana ability, @ deals &^^ damage to that player.|3{^RR}|0A|1harsh mentor|
+
+|5creature|4|6human druid|7|8&/&^^^|9{^^GG}, T, sacrifice @: search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.|3{GG}|0O|1oashra cultivator|
+
+|5sorcery|4|6|7|8|9cycling {^^}\return up to two target creature cards from your graveyard to your hand.|3{^^BB}|0O|1wander in death|
+
+|5creature|4|6human warrior|7|8&^^^/&^^|9whenever @ attacks, other attacking creatures get +&^/+& until end of turn.|3{RRWW}|0N|1honored crop~captain|
+
+|5creature|4|6insect|7|8&^^^^^/&^^^^^|9|3{^^^^GG}|0O|1colossapede|
+
+|5creature|4|6zombie minotaur|7|8&^^^/&^^|9menace|3{^^BB}|0O|1cursed minotaur|
+
+|5sorcery|4|6|7|8|9cycling {^^}\target player discards two cards.|3{^BBBB}|0O|1unburden|
+
+|5sorcery|4|6|7|8|9reveal the top five cards of your library. you may put a creature card and/or an enchantment card from among them into your hand. put the rest into your graveyard.|3{^^GG}|0O|1benefaction of rhonas|
+
+|5creature|4|6drake|7|8&^^^/&^^^^|9flying\cycling {^^}|3{^^^^UU}|0O|1shimmerscale drake|
+
+|5creature|4|6jackal rogue|7|8&^^/&^^|9you may exert @ as it attacks.\whenever you exert a creature, you may discard a card. if you do, draw a card.|3{^RR}|0N|1battlefield scavenger|
+
+|5instant|4|6|7|8|9return target nonland permanent to its owner's hand. each player puts the top two cards of his or her library into his or her graveyard.|3{^UU}|0O|1winds of rebuke|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, it deals &^^^ damage to target creature or player.\when a cartouche enters the battlefield under your control, return @ to its owner's hand.|3{^^RR}|0N|1trial of zeal|
+
+|5creature|4|6wurm|7|8&^^^^^^^/&^^^^^^^|9cycling {^^}\@ can't be blocked by creatures with power &^^ or less.|3{^^^^^GGGG}|0O|1greater sandwurm|
+
+|5creature|4|6bird soldier|7|8&^^^/&^^^|9flying\cycling {^^}\embalm {^^^WWWW}|3{^^^WWWW}|0N|1oketra's attendant|
+
+|5enchantment|4|6|7|8|9whenever you put one or more -&^/-&^ counters on a creature, create that many &^/&^ black insect creature tokens.|3{^^BB}|0N|1nest of scarabs|
+
+|5instant|4|6|7|8|9cycling {^^}\untap target creature. prevent all damage that would be dealt to it this turn.|3{WW}|0O|1djeru's resolve|
+
+|5sorcery|4|6|7|8|9as an additional cost to cast @, discard a card.\draw two cards.|3{^RR}|0O|1tormenting voice|
+
+|5sorcery|4|6|7|8|9create a &^^^/&^^^ green hippo creature token.|3{^^GG}|0A|1mouth|
+|5sorcery|4|6|7|8|9aftermath\draw a card for each creature you control with power &^^^ or greater.|3{^^^GG}|0A|1feed|
+
+|5sorcery|4|6|7|8|9choose an artifact card name. search target opponent's graveyard, hand, and library for any number of cards with the chosen name and exile them. then that player shuffles his or her library.|3{^^BB}|0A|1dispossess|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, creatures you control get +&^^/+&^ and gain vigilance until end of turn.\when a cartouche enters the battlefield under your control, return @ to its owner's hand.|3{^^WW}|0N|1trial of solidarity|
+
+|5land|4|6|7|8|9indestructible\T: add {CC} to your mana pool.\{^^^^^}, T: add five mana in any combination of colors to your mana pool.|3|0A|1cascading cataracts|
+
+|5instant|4|6|7|8|9return target tapped creature to its owner's hand.\draw a card.|3{^^UU}|0N|1galestrike|
+
+|5instant|4|6|7|8|9cycling {GG}\destroy target artifact.|3{^GG}|0O|1dissenter's deliverance|
+
+|5sorcery|4|6|7|8|9if @ was cast from your hand and you've cast another spell named approach of the second sun this game, you win the game. otherwise, put @ into its owner's library seventh from the top and you gain &^^^^^^^ life.|3{^^^^^^WW}|0A|1approach of the second sun|
+
+|5creature|4legendary|6human cleric|7|8&^^/&^^|9embalm {^^^WWUU}\at the beginning of combat on your turn, target creature token you control gets +&^/+&^ until end of turn and can't be blocked this turn.|3{WWUU}|0A|1temmet, vizier of naktamun|
+
+|5creature|4|6human cleric|7|8&^^/&^|9if one or more -&^/-&^ counters would be put on a creature you control, that many -&^/-&^ counters minus one are put on it instead.|3{^WW}|0N|1vizier of remedies|
+
+|5planeswalker|4|6liliana|7&^^^^^|8|9+&^: create a &^^/&^^ black zombie creature token. put the top two cards of your library into your graveyard.\-&^^^: return target creature card from your graveyard to the battlefield. that creature is a black zombie in addition to its other colors and types.\-&^^^^^^^: destroy all non~zombie creatures.|3{^^^BBBB}|0Y|1liliana, death's majesty|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {UU} or {BB} to your mana pool.|3|0O|1submerged boneyard|
+
+|5artifact|4legendary|6|7|8|9at the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.|3{^^}|0A|1throne of the god~pharaoh|
+
+|5sorcery|4|6|7|8|9cycling {^^}\destroy target artifact or land.|3{^^^RR}|0O|1violent impact|
+
+|5instant|4|6|7|8|9target creature gets +X/+& until end of turn, where X is its power.|3{^^RR}|0N|1onward|
+|5sorcery|4|6|7|8|9aftermath\target creature gains double strike until end of turn.|3{^^WW}|0N|1victory|
+
+|5creature|4|6zombie|7|8&^^^/&^^^|9when @ enters the battlefield, untap target creature.|3{^^^WW}|0O|1sparring mummy|
+
+|5creature|4|6beast|7|8&^^^^^^/&^^^^|9cycling {RR}|3{^^^^^RR}|0O|1desert cerodon|
+
+|5creature|4|6minotaur warrior|7|8&^^^^/&^^|9{^^}, discard a card: put a -&^/-&^ counter on target creature. that creature can't block this turn.|3{^^BBRR}|0N|1merciless javelineer|
+
+|5creature|4|6human warrior|7|8&^^^^/&^^^^|9you may exert @ as it attacks. when you do, untap all other creatures you control.|3{^^GGWW}|0N|1ahn~crop champion|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {UU} or {RR} to your mana pool.|3|0O|1highland lake|
+
+|5creature|4|6naga rogue|7|8&^/&^^|9@ can't be blocked.|3{UU}|0O|1slither blade|
+
+|5creature|4|6human wizard|7|8&^/&^^^|9T: draw a card, then discard a card. activate this ability only if you've cast a noncreature spell this turn.|3{^UU}|0O|1seeker of insight|
+
+|5enchantment|4|6aura cartouche|7|8|9enchant creature you control\when @ enters the battlefield, draw a card.\enchanted creature gets +&^/+&^ and has flying.|3{^UU}|0O|1cartouche of knowledge|
+
+|5artifact|4|6|7|8|9{^}, T: target creature can't attack this turn. put a brick counter on @.\{^}, T: until your next turn, target creature can't attack or block and its activated abilities can't be activated. activate this ability only if there are three or more brick counters on @.|3{^^^}|0N|1edifice of authority|
+
+|5enchantment|4|6aura cartouche|7|8|9enchant creature you control\when @ enters the battlefield, target creature can't block this turn.\enchanted creature gets +&^/+&^ and has haste.|3{RR}|0O|1cartouche of zeal|
+
+|5creature|4legendary|6human warrior|7|8&^^^/&^^^^|9flash\double strike\vigilance\haste\other creatures you control have haste.\{WW}, T: untap another target creature.|3{^^^RRGG}|0Y|1samut, voice of dissent|
+
+|5creature|4legendary|6god|7|8&^^^^/&^^^^^^|9menace\indestructible\@ can't attack or block unless a creature died under your control this turn.\{^BB}, sacrifice another creature: scry &^. each opponent loses &^ life and you gain &^ life.|3{^^BB}|0Y|1bontu the glorified|
+
+|5creature|4|6human warrior|7|8&^^/&^|9trample\you may exert @ as it attacks. when you do, it gets +&^/+&^^ until end of turn.|3{^RR}|0O|1nef~crop entangler|
+
+|5creature|4|6beast|7|8&^^/&^^|9when @ enters the battlefield, you may destroy target artifact.\artifacts your opponents control enter the battlefield tapped.|3{^^GG}|0N|1manglehorn|
+
+|5creature|4|6dragon|7|8&^^^^/&^^^^|9flying\haste\you may exert @ as it attacks. when you do, it deals &^^^^ damage to target non~dragon creature an opponent controls.|3{^^^RRRR}|0A|1glorybringer|
+
+|5creature|4|6cat|7|8&^^^/&^^|9flash|3{^^GG}|0O|1pouncing cheetah|
+
+|5instant|4|6|7|8|9uncast target spell unless its controller pays {^^^}.|3{^^UU}|0N|1reduce|
+|5sorcery|4|6|7|8|9aftermath\up to three target lands don't untap during their controller's next untap step.|3{^^RR}|0N|1rubble|
+
+|5instant|4|6|7|8|9as an additional cost to cast @, sacrifice a creature.\@ deals damage equal to the sacrificed creature's power to target creature or player.|3{^RR}|0O|1fling|
+
+|5creature|4|6zombie bat|7|8&^^/&^|9flying\{^}: @ gains haste until end of turn.|3{^^BB}|0O|1blighted bat|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {GG} or {WW} to your mana pool.|3|0O|1tranquil expanse|
+
+|5creature|4|6minotaur warrior|7|8&^^/&^^^|9when @ enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.|3{^^^RR}|0N|1warfire javelineer|
+
+|5artifact creature|4|6cat|7|8&^^/&^^|9exile @: each opponent chooses two cards in his or her graveyard and exiles the rest.|3{^^}|0N|1watchers of the dead|
+
+|5enchantment|4|6aura|7|8|9enchant permanent\cycling {^^}\you control enchanted permanent.|3{^^^^^UUUU}|0N|1lay claim|
+
+|5instant|4|6|7|8|9return to your hand all cards in your graveyard that you cycled or discarded this turn.|3{^BB}|0A|1shadow of the grave|
+
+|5planeswalker|4|6liliana|7&^^^^^|8|9+&^^: put a -&^/-&^ counter on up to one target creature.\-&^^^: destroy target creature with a -&^/-&^ counter on it.\-&^^^^^^^^^^: return all creature cards from your graveyard to the battlefield.|3{^^^^^BBBB}|0Y|1liliana, death wielder|
+
+|5sorcery|4|6|7|8|9all creatures get -&^^/-&^^ until end of turn.|3{^^BBBB}|0A|1rags|
+|5sorcery|4|6|7|8|9aftermath\each opponent chooses a creature he or she controls. you gain control of those creatures.|3{^^^^^UUUU}|0A|1riches|
+
+|5instant|4|6|7|8|9untap up to two target creatures. they each get +&^^/+&^^ until end of turn.|3{^^GG}|0N|1synchronized strike|
+
+|5creature|4|6naga cleric|7|8&^^/&^^^^|9when @ enters the battlefield, look at the top three cards of your library. put any number of them into your graveyard and the rest back on top of your library in any order.|3{^^^UU}|0O|1naga oracle|
+
+|5creature|4|6manticore|7|8&^^^^^/&^^^^|9when @ enters the battlefield, put a -&^/-&^ counter on target creature you control. @ deals &^^^ damage to target opponent.|3{^^^^RR}|0O|1manticore of the gauntlet|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {RR} or {WW} to your mana pool.|3|0O|1stone quarry|
+
+|5sorcery|4|6|7|8|9target opponent reveals his or her hand. you choose a nonlegendary, nonland card from it. that player discards that card.|3{^BB}|0N|1lay bare the heart|
+
+|5creature|4|6minotaur archer|7|8&^^/&^^^|9reach\{^RR}: @ gets +&^/+& until end of turn.|3{^^RR}|0O|1minotaur sureshot|
+
+|5creature|4|6crocodile demon|7|8&^^^^/&^^^|9lifelink\when @ enters the battlefield, put a -&^/-&^ counter on target creature you control.|3{^^BB}|0N|1baleful ammit|
+
+|5instant|4|6|7|8|9target creature gets +&^/+& and gains indestructible until end of turn.|3{^BB}|0N|1destined|
+|5sorcery|4|6|7|8|9aftermath\all creatures able to block target creature this turn do so.|3{^^^GG}|0N|1lead|
+
+|5sorcery|4|6|7|8|9search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. then shuffle your library.|3{^^GG}|0A|1harvest season|
+
+|5creature|4|6scorpion demon|7|8&^^^^/&^^^^^|9when @ enters the battlefield, put two -&^/-&^ counters on target creature you control.\when @ dies, you may put a -&^/-&^ counter on target creature for each -&^/-&^ counter on @.|3{^^^BB}|0O|1soulstinger|
+
+|5creature|4|6naga warrior|7|8&^^/&^|9embalm {^^^UU}|3{^UU}|0O|1tah~crop skirmisher|
+
+|5instant|4|6|7|8|9tap up to two target creatures. those creatures don't untap during their controller's next untap step.|3{^^^UU}|0O|1decision paralysis|
+
+|5creature|4|6minotaur warrior|7|8&^^^^/&^^^|9when @ enters the battlefield, discard a card.|3{^RR}|0N|1bloodrage brawler|
+
+|5instant|4|6|7|8|9draw X cards, then discard a card.|3{XXUUUU}|0A|1pull from tomorrow|
+
+|5instant|4|6|7|8|9cycling {^^}\attacking creatures get +&^^/+& until end of turn.|3{^^^RR}|0O|1pursue glory|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, create a &^^^^/&^^ green beast creature token.\when a cartouche enters the battlefield under your control, return @ to its owner's hand.|3{^^GG}|0N|1trial of strength|
+
+|5creature|4|6shapeshifter cleric|7|8&/&|9embalm {^^^UUUU}\you may have @ enter the battlefield as a copy of any creature on the battlefield, except if @ was embalmed, the token has no mana cost, it's white, and it's a zombie in addition to its other types.|3{^^UUUU}|0A|1vizier of many faces|
+
+|5creature|4|6zombie|7|8&^^/&^^^|9other zombies you control get +&^/+&^.\{^BB}, T: all zombies gain menace until end of turn.|3{^^BB}|0N|1lord of the accursed|
+
+|5instant|4|6|7|8|9cycling {^^}\put three -&^/-&^ counters on target creature with flying.|3{GG}|0O|1stinging shot|
+
+|5creature|4|6bird soldier|7|8&^^/&^^|9flying\{^WW}: untap target creature. activate this ability only if you control a gideon planeswalker.|3{^^WW}|0N|1companion of the trials|
+
+|5creature|4|6drake|7|8*/&^^^^|9flying\@'s power is equal to the number of instant and sorcery cards in your graveyard.|3{^UURR}|0N|1enigma drake|
+
+|5instant|4|6|7|8|9cycling {^^}\exile target artifact or enchantment.|3{^^WW}|0O|1forsake the worldly|
+
+|5creature|4|6cat|7|8&^^^/&^^^|9other cats you control get +&^/+&^ and have lifelink.\when @ enters the battlefield, create two &^/&^ white cat creature tokens with lifelink.|3{^^^WWWW}|0A|1regal caracal|
+
+|5creature|4|6zombie|7|8&^^/&^^|9when @ enters the battlefield, you may return target creature card from your graveyard to your hand.|3{^^^BB}|0N|1gravedigger|
+
+|5sorcery|4|6|7|8|9X target creatures can't be blocked this turn. until end of turn, those creatures gain "whenever this creature deals combat damage to a player, draw a card."|3{XXUUUU}|0N|1open into wonder|
+
+|5sorcery|4|6|7|8|9target player draws two cards and loses &^^ life.|3{^^BB}|0O|1painful lesson|
+
+|5instant|4|6|7|8|9untap target creature. it gets +&^^/+&^^^^ and gains reach until end of turn.|3{^^GG}|0O|1spidery grasp|
+
+|5creature|4|6bird warrior|7|8&^^/&^^|9flying\you may exert @ as it attacks. when you do, creatures you control get +&^/+&^ until end of turn.|3{^^^WW}|0O|1tah~crop elite|
+
+|5instant|4|6|7|8|9@ deals X damage to each creature with flying.|3{XXGG}|0A|1heaven|
+|5sorcery|4|6|7|8|9aftermath\@ deals X damage to each creature without flying.|3{XXRRRR}|0A|1earth|
+
+|5creature|4|6human warrior|7|8&^^^^/&^^^^|9when @ enters the battlefield, put three -&^/-&^ counters on target creature you control.\whenever @ attacks, remove a -&^/-&^ counter from it. if you do, you gain &^ life.|3{^GG}|0N|1exemplar of strength|
+
+|5creature|4|6crocodile|7|8&^^^^^^/&^^^^^^^|9hexproof|3{^^^^GGGG}|0N|1scaled behemoth|
+
+|5creature|4|6spider|7|8&^^/&^^^^|9reach|3{^^^GG}|0O|1giant spider|
+
+|5creature|4|6cat|7|8&^^/&^^|9whenever @ attacks, it gets +&^/+&^ until end of turn.|3{^^WW}|0O|1graceful cat|
+
+|5enchantment|4|6|7|8|9whenever you cycle or discard a card, you may pay {^}. if you do, create a &^^/&^^ blue drake creature token with flying.|3{^^UU}|0A|1drake haven|
+
+|5instant|4|6|7|8|9distribute two -&^/-&^ counters among one or two target creatures.|3{^^BB}|0O|1splendid agony|
+
+|5instant|4|6|7|8|9cycling {UU}\draw two cards.|3{^^^UU}|0O|1hieroglyphic illumination|
+
+|5creature|4|6zombie|7|8&^/&^|9when @ dies, you may put a -&^/-&^ counter on target creature.|3{BB}|0O|1festering mummy|
+
+|5creature|4|6naga druid|7|8&^/&^^|9T: add to your mana pool one mana of any type that a land you control could produce.|3{^GG}|0O|1naga vitalist|
+
+|5land|4|6plains island|7|8|9cycling {^^}\@ enters the battlefield tapped.|3|0A|1irrigated farmland|
+
+|5creature|4|6horror|7|8&^^^^/&^^^^|9cycling {BB}\whenever you cycle or discard another card, @ gets +&^^/+&^ until end of turn.|3{^^^^BB}|0O|1horror of the broken lands|
+
+|5creature|4|6minotaur warrior|7|8&^^^^/&^^^|9you may exert @ as it attacks. when you do, it gets +&^/+&^ and gains menace until end of turn.|3{^^^RR}|0O|1emberhorn minotaur|
+
+|5creature|4|6naga warrior|7|8&^^^/&^^|9you may exert @ as it attacks. when you do, it gets +&^^/+&^^ until end of turn.|3{^^GG}|0O|1hooded brawler|
+
+|5sorcery|4|6|7|8|9cycling {^^^}\@ deals &^^^ damage to each creature.|3{^RRRR}|0A|1sweltering suns|
+
+|5creature|4legendary|6human cleric|7|8&^^/&^^|9whenever @ deals combat damage to a player, you may put a -&^/-&^ counter on target creature.\whenever you put one or more -&^/-&^ counters on a creature, create a &^/&^ green snake creature token with deathtouch.|3{BBGG}|0A|1hapatra, vizier of poisons|
+
+|5creature|4|6human warrior|7|8&^^/&^^|9embalm {^^WW}\@ can block an additional creature each combat.|3{^WW}|0N|1trueheart duelist|
+
+|5artifact|4legendary|6|7|8|9red creature spells you cast cost {^} less to cast.\whenever you cast a creature spell, you may discard a card. if you do, draw a card.|3{^^^}|0N|1hazoret's monument|
+
+|5instant|4|6|7|8|9@ deals &^^^^ damage to target creature.|3{^^^RR}|0O|1electrify|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, target opponent sacrifices a creature.\when a cartouche enters the battlefield under your control, return @ to its owner's hand.|3{^BB}|0N|1trial of ambition|
+
+|5creature|4|6scorpion|7|8&^^/&^^|9deathtouch\cycling {^^}|3{^^BB}|0O|1wasteland scorpion|
+
+|5creature|4|6naga druid|7|8&^^/&^^|9T: add {CCCC} to your mana pool.|3{^GGUU}|0N|1weaver of currents|
+
+|5sorcery|4|6|7|8|9cycling {UU}\target player puts the top five cards of his or her library into his or her graveyard.|3{^UU}|0O|1compelling argument|
+
+|5creature|4|6jackal warrior|7|8&^^^/&^^^|9you may exert @ as it attacks. when you do, you may put a creature card from your hand onto the battlefield.|3{^^^GG}|0A|1champion of rhonas|
+
+|5creature|4|6human wizard|7|8&^^/&^^|9you may exert @ as it attacks. when you do, it gets +&^/+&^ and gains flying until end of turn.|3{^WW}|0O|1gust walker|
+
+|5creature|4|6hippo|7|8&^^^^/&^^^^^|9when @ enters the battlefield, put two -&^/-&^ counters on target creature you control.\whenever you put one or more -&^/-&^ counters on @, remove a -&^/-&^ counter from another target creature you control.|3{^^GG}|0N|1defiant greatmaw|
+
+|5artifact|4legendary|6|7|8|9green creature spells you cast cost {^} less to cast.\whenever you cast a creature spell, target creature you control gets +&^^/+&^^ and gains trample until end of turn.|3{^^^}|0N|1rhonas's monument|
+
+|5enchantment|4|6aura|7|8|9enchant creature\enchanted creature has base power and toughness &/&^^.|3{^^UU}|0O|1illusory wrappings|
+
+|5creature|4|6human warrior|7|8&^^^^/&^|9if @ hasn't been exerted this turn, you may exert it as it attacks. when you do, untap all other creatures you control and after this phase, there is an additional combat phase.|3{^^RR}|0Y|1combat celebrant|
+
+|5sorcery|4|6|7|8|9damage can't be prevented this turn. if a source you control would deal damage this turn, it deals double that damage instead.|3{^^RR}|0A|1insult|
+|5sorcery|4|6|7|8|9aftermath\@ deals &^^ damage to target creature and &^^ damage to target player.|3{^^RR}|0A|1injury|
+
+|5instant|4|6|7|8|9@ deals &^^ damage to target creature. if that creature would die this turn, exile it instead.|3{RR}|0O|1magma spray|
+
+|5instant|4|6|7|8|9zombies you control get +&^^/+&^ until end of turn. other creatures you control get +&^/+&^ until end of turn.|3{^WW}|0O|1in oketra's name|
+
+|5instant|4|6|7|8|9until end of turn, target creature gets +&^^/+& and gains "when this creature dies, return it to the battlefield tapped under its owner's control."|3{BB}|0O|1supernatural stamina|
+
+|5creature|4|6bird|7|8&^^^/&^^|9flying\deathtouch\@ costs {^^^} less to cast if a creature died this turn.|3{^^^BB}|0N|1bone picker|
+
+|5creature|4|6lizard|7|8&^^^^^^/&^^^^^|9cycling {^^^GG}\when you cycle @, you may search your library for a basic land card or a desert card, put it onto the battlefield, then shuffle your library.|3{^^^^^GG}|0N|1shefet monitor|
+
+|5instant|4|6|7|8|9cycling {^^^RR}\@ deals &^^^^^^^ damage to target creature.\when you cycle @, you may have it deal &^^ damage to target creature.|3{^^^^RR}|0N|1deem worthy|
+
+|5instant|4|6|7|8|9cycling {BB}\exile up to three target cards from a single graveyard.|3{BB}|0O|1scarab feast|
+
+|5enchantment|4|6|7|8|9at the beginning of your precombat main phase, remove all % counters from @. if no counters were removed this way, put a % counter on @ and draw a card. otherwise, add {CCGGUU} to your mana pool.\countertype % flood|3{^^GGUU}|0A|1bounty of the luxa|
+
+|5creature|4|6insect|7|8&^/&^^^^|9|3{^BB}|0O|1dune beetle|
+
+|5creature|4|6human|7|8&^/&^|9when @ dies, create a &^^/&^^ black zombie creature token.|3{^BB}|0O|1doomed dissenter|
+
+|5creature|4|6zombie|7|8&^^/&^^|9whenever another zombie enters the battlefield under your control, you may tap target artifact or creature.|3{^WW}|0O|1binding mummy|
+
+|5instant|4|6|7|8|9exile target creature.|3{^^^^BB}|0O|1final reward|
+
+|5land|4|6mountain forest|7|8|9cycling {^^}\@ enters the battlefield tapped.|3|0A|1sheltered thicket|
+
+|5land|4|6forest plains|7|8|9cycling {^^}\@ enters the battlefield tapped.|3|0A|1scattered groves|
+
+|5enchantment|4|6|7|8|9as @ enters the battlefield, choose a card name.\your opponents can't cast spells with the chosen name.\prevent all damage that would be dealt to you and permanents you control by sources with the chosen name.|3{^^WWWW}|0A|1gideon's intervention|
+
+|5sorcery|4|6|7|8|9@ deals &^^^^ damage to target creature.|3{^RR}|0A|1cut|
+|5sorcery|4|6|7|8|9aftermath\each opponent loses X life.|3{XXBBBB}|0A|1ribbons|
+
+|5instant|4|6|7|8|9@ deals &^^^ damage to target attacking or blocking creature.|3{^WW}|0O|1impeccable timing|
+
+|5instant|4|6|7|8|9return target spell to its owner's hand.|3{^UU}|0A|1failure|
+|5sorcery|4|6|7|8|9aftermath\choose a card name. until your next turn, your opponents can't cast spells with the chosen name.|3{WW}|0A|1comply|
+
+|5creature|4|6human cleric|7|8&^^/&^^|9flash\when @ enters the battlefield, you may exile target creature if it attacked or blocked this turn. return that card to the battlefield under its owner's control at the beginning of the next end step.|3{^^WW}|0N|1vizier of deferment|
+
+|5creature|4legendary|6god|7|8&^^^^^/&^^^^^|9flying\indestructible\@ can't attack or block unless you have seven or more cards in hand.\{^^^UU}: draw a card, then you may return a land you control to its owner's hand.|3{^^UU}|0Y|1kefnet the mindful|
+
+|5land|4basic|6mountain|7|8|9|3|0L|1mountain|
+
+|5planeswalker|4|6gideon|7&^^^^^|8|9+&^^: untap all creatures you control. those creatures get +&^/+&^ until end of turn.\&: until end of turn, @ becomes a &^^^^^/&^^^^^ human soldier creature with indestructible that's still a planeswalker. prevent all damage that would be dealt to @ this turn.\-&^^^^^^^^^^: creatures you control get +&^^/+&^^ until end of turn. tap all creatures your opponents control.|3{^^^^WW}|0Y|1gideon, martial paragon|
+
+|5instant|4|6|7|8|9cycling {^WW}\you gain &^^^^^^ life.\when you cycle @, you may gain &^^ life.|3{^^WW}|0N|1renewed faith|
+
+|5planeswalker|4|6gideon|7&^^^|8|9+&^: until your next turn, prevent all damage target permanent would deal.\&: until end of turn, @ becomes a &^^^^/&^^^^ human soldier creature with indestructible that's still a planeswalker. prevent all damage that would be dealt to @ this turn.\&: you get an emblem with "as long as you control a gideon planeswalker, you can't lose the game and your opponents can't win the game."|3{^WWWW}|0Y|1gideon of the trials|
+
+|5creature|4|6antelope|7|8&^^^/&^^^^|9when @ enters the battlefield, put a -&^/-&^ counter on target creature you control.|3{^^GG}|0O|1ornery kudu|
+
+|5creature|4|6human warrior|7|8&^^^/&^^|9vigilance\embalm {^^^^WW}|3{^^WW}|0O|1unwavering initiate|
+
+|5creature|4|6zombie jackal|7|8&^^/&^|9@ enters the battlefield tapped.\{^^BB}: return @ from your graveyard to the battlefield. activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.|3{BB}|0A|1dread wanderer|
+
+|5creature|4legendary|6god|7|8&^^^^^/&^^^^^|9deathtouch\indestructible\@ can't attack or block unless you control another creature with power &^^^^ or greater.\{^^GG}: another target creature gets +&^^/+& and gains trample until end of turn.|3{^^GG}|0Y|1rhonas the indomitable|
+
+|5creature|4|6minotaur cleric|7|8&^^^^/&^^|9whenever you cycle or discard a card, @ gains indestructible until end of turn.|3{^^^BB}|0O|1pitiless vizier|
+
+|5creature|4|6serpent|7|8&^^^^^/&^^^^^|9cycling {UU}\@ can't attack unless there are five or more cards in your graveyard.|3{^^^^^UU}|0O|1river serpent|
+
+|5creature|4|6camel|7|8&^^^^/&^^^|9when @ enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.|3{^^^GG}|0O|1quarry hauler|
+
+|5creature|4|6angel|7|8&^^^/&^^^^|9flying\embalm {^^^^^WW}\when @ enters the battlefield, you may exile target nonland permanent an opponent controls until @ leaves the battlefield.|3{^^^WWWW}|0Y|1angel of sanctions|
+
+|5creature|4|6minotaur warrior|7|8&^^^/&^^|9haste\you may exert @ as it attacks. when you do, target creature can't block this turn.|3{^^RR}|0N|1ahn~crop crasher|
+
+|5creature|4|6zombie beast|7|8&^^^^^/&^^^^|9menace\when @ enters the battlefield, put two -&^/-&^ counters on target creature you control.\whenever another zombie you control dies, each opponent loses &^ life.|3{^^BB}|0A|1plague belcher|
+
+|5enchantment|4|6aura curse|7|8|9enchant player\whenever a creature enters the battlefield under enchanted player's control, that player loses &^ life and you gain &^ life.|3{^BB}|0O|1trespasser's curse|
+
+|5artifact|4|6|7|8|9{^}, T: you gain &^ life. put a brick counter on @.\T: you gain &^^ life. activate this ability only if there are three or more brick counters on @.|3{^^^}|0O|1luxa river shrine|
+
+|5creature|4|6zombie|7|8&^^/&^^^^|9|3{^^WW}|0O|1those who serve|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, draw three cards, then discard a card.\when a cartouche enters the battlefield under your control, return @ to its owner's hand.|3{^^^UU}|0N|1trial of knowledge|
+
+|5creature|4|6zombie jackal|7|8&^^/&^^|9when @ enters the battlefield, each player discards a card.|3{^BB}|0O|1miasmic mummy|
+
+|5instant|4|6|7|8|9create two &^/&^ white warrior creature tokens with vigilance.|3{^^WW}|0N|1start|
+|5sorcery|4|6|7|8|9aftermath\as an additional cost to cast @, sacrifice a creature.\destroy target creature.|3{^^BB}|0N|1finish|
+
+|5enchantment|4|6|7|8|9if an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.|3{^^^WW}|0A|1anointed procession|
+
+|5creature|4|6naga wizard|7|8&^^/&^^|9you may exert @ as it attacks. when you do, draw a card.|3{^^GG}|0N|1watchful naga|
+
+|5enchantment|4|6aura|7|8|9enchant creature\enchanted creature can't attack or block.\enchanted creature has "{^^}, sacrifice this creature: you gain &^^ life."|3{^WW}|0O|1compulsory rest|
+
+|5creature|4|6cat|7|8&^^^/&^|9whenever @ deals combat damage to a player, untap target creature or land.|3{^GG}|0O|1initiate's companion|
+
+|5sorcery|4|6|7|8|9@ deals &^ damage to each creature your opponents control.|3{RR}|0O|1blazing volley|
+
+|5creature|4|6human cleric|7|8&^/&^^^|9flying\whenever you cycle or discard a card, @ gets +&^/+&^ until end of turn.|3{UUBB}|0N|1shadowstorm vizier|
+
+|5sorcery|4|6|7|8|9cycling {^^}\gain control of target creature until end of turn. untap that creature. it gains haste until end of turn.|3{^^^RR}|0N|1limits of solidarity|
+
+|5creature|4|6human warrior|7|8&^^^/&^^|9you may exert @ as it attacks. when you do, return target creature card with converted mana cost &^^ or less from your graveyard to the battlefield.|3{^^WW}|0N|1devoted crop~mate|
+
+|5enchantment|4|6aura cartouche|7|8|9enchant creature you control\when @ enters the battlefield, you may put a -&^/-&^ counter on target creature.\enchanted creature gets +&^/+&^ and has lifelink.|3{^^BB}|0O|1cartouche of ambition|
+
+|5creature|4|6snake hydra|7|8&^^^^^^/&^^^^^^|9trample\embalm {^^^GG}|3{^^^^^GG}|0A|1honored hydra|
+
+|5creature|4|6human cleric|7|8&^^/&^^|9{^}, T, sacrifice @: return target instant or sorcery card from your graveyard to your hand.|3{^^UU}|0O|1scribe of the mindful|
+
+|5sorcery|4|6|7|8|9cycling {^^}\return up to two target creatures to their owners' hands.|3{^^^^UUUU}|0O|1floodwaters|
+
+|5creature|4|6human archer|7|8&^/&^^|9whenever you cycle or discard a card, you may pay {^}. if you do, put a -&^/-&^ counter on target creature.|3{BB}|0N|1ruthless sniper|
+
+|5instant|4|6|7|8|9target creature you control gains hexproof until end of turn. remove all -&^/-&^ counters from it.|3{GG}|0N|1hapatra's mark|
+
+|5creature|4legendary|6minotaur warrior|7|8&^^/&^^|9first strike\other minotaurs you control have first strike.\as long as you have one or fewer cards in hand, minotaurs you control get +&^^/+&.\whenever @ deals combat damage to a player, each player discards a card.|3{^BBRR}|0A|1neheb, the worthy|
+
+|5creature|4|6manticore|7|8&^^^^/&^^^|9embalm {^^^^^RR}\when @ enters the battlefield, you may sacrifice another creature. when you do, @ deals damage equal to that creature's power to target creature or player.|3{^^RRRR}|0A|1heart~piercer manticore|
+
+|5instant|4|6|7|8|9cycling {^^^}\prevent all combat damage that would be dealt this turn.|3{^GG}|0O|1haze of pollen|
+
+|5instant|4|6|7|8|9exile target creature that blocked or was blocked by a zombie this turn.|3{WW}|0N|1time to reflect|
+
+|5creature|4|6horror|7|8&^^^^^^/&^^^^^^|9@ gets -&^/-&^ for each card in your hand.|3{^^^BB}|0N|1grim strider|
+
+|5instant|4|6|7|8|9cycling {UU}\uncast target spell unless its controller pays {^}.|3{^UU}|0N|1censor|
+
+|5creature|4|6camel|7|8&^^^/&^^^^^|9when @ enters the battlefield, if you control a tapped creature, create a &^/&^ white warrior creature token with vigilance.|3{^^^^WW}|0O|1supply caravan|
+
+|5instant|4|6|7|8|9target creature gets +&^^/+&^^ and gains flying until end of turn.|3{^WW}|0O|1mighty leap|
+
+|5enchantment|4|6aura|7|8|9enchant creature\enchanted creature has "whenever this creature deals combat damage to a player, you may draw a card."|3{GG}|0N|1sixth sense|
+
+|5enchantment|4|6aura cartouche|7|8|9enchant creature you control\when @ enters the battlefield, you may have enchanted creature fight target creature an opponent controls.\enchanted creature gets +&^/+&^ and has trample.|3{^^GG}|0O|1cartouche of strength|
+
+|5creature|4|6crocodile|7|8&^^^^^/&^^^^|9haste\when @ enters the battlefield, put a -&^/-&^ counter on target creature you control.|3{^^^GG}|0N|1crocodile of the crossing|
+
+|5artifact|4|6|7|8|9{^^}, T: exile the top card of your library. until end of turn, you may play that card. put a brick counter on @.\T: exile the top card of your library. until end of turn, you may play that card without paying its mana cost. activate this ability only if there are three or more brick counters on @.|3{^^^^}|0A|1oracle's vault|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, you may search your library and/or graveyard for a card named gideon, martial paragon, reveal it, and put it into your hand. if you search your library this way, shuffle it.\creatures you control get +&^/+&^.|3{^^^^WW}|0A|1gideon's resolve|
+
+|5creature|4|6demon|7|8&^^^^^/&^^^^|9flying\cycling {^^}\whenever you cycle or discard another card, put a -&^/-&^ counter on each creature your opponents control.|3{^^^BBBB}|0A|1archfiend of ifnir|
+
+|5creature|4|6serpent|7|8&^^^^^^/&^^^^^|9@ costs {^} less to cast for each instant and sorcery card in your graveyard.|3{^^^^^UUUU}|0N|1cryptic serpent|
+
+|5instant|4|6|7|8|9end the turn.\at the beginning of your next end step, you lose the game.|3{^^RR}|0Y|1glorious end|
+
+|5artifact|4legendary|6|7|8|9blue creature spells you cast cost {^} less to cast.\whenever you cast a creature spell, target creature an opponent controls doesn't untap during its controller's next untap step.|3{^^^}|0N|1kefnet's monument|
+
+|5creature|4|6jackal warrior|7|8&^^/&^^|9you may exert @ as it attacks. when you do, it gets +&^/+& and gains deathtouch until end of turn.|3{^GG}|0O|1bitterblade warrior|
+
+|5sorcery|4|6|7|8|9cycling {^^^BB}\create three &^^/&^^ black zombie creature tokens.\when you cycle @, create a &^^/&^^ black zombie creature token.|3{^^^^BBBB}|0N|1stir the sands|
+
+|5creature|4|6bird warrior|7|8&^^^/&^^|9flying\embalm {^^^^^^UU}|3{^^^UU}|0O|1aven initiate|
+
+|5creature|4|6sphinx|7|8&^^^^^/&^^^|9flying\embalm {^^^^^UUUU}\whenever @ becomes the target of a spell or ability for the first time each turn, uncast that spell or ability.|3{^^^UUUU}|0A|1glyph keeper|
+
+|5enchantment|4|6aura|7|8|9enchant creature\enchanted creature gets +&^^^/+&^^^ and has "at the beginning of your upkeep, put a -&^/-&^ counter on this creature."|3{RR}|0N|1consuming fervor|
+
+|5land|4|6swamp mountain|7|8|9cycling {^^}\@ enters the battlefield tapped.|3|0A|1canyon slough|
+
+|5enchantment|4|6|7|8|9zombies you control get +&^/+&^.\when @ enters the battlefield, create two &^^/&^^ black zombie creature tokens.|3{^^^BBBB}|0A|1liliana's mastery|
+
+|5creature|4|6zombie|7|8&^/&^^|9{^^}, T: tap target creature.|3{WW}|0O|1fan bearer|
+
+|5creature|4legendary|6god|7|8&^^^^^/&^^^^|9indestructible\haste\@ can't attack or block unless you have one or fewer cards in hand.\{^^RR}, discard a card: hazoret deals &^^ damage to each opponent.|3{^^^RR}|0Y|1hazoret the fervent|
+
+|5artifact|4|6equipment|7|8|9equip {^}\equipped creature gets +&^/+&^.|3{^}|0O|1honed khopesh|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {BB} or {GG} to your mana pool.|3|0O|1foul orchard|
+
+|5artifact|4|6|7|8|9whenever a nontoken creature you control dies, you gain &^ life. then you may draw a card. if you do, discard a card.\{^^}, T, sacrifice @: search your graveyard, hand, and/or library for a card named god~pharaoh's gift and put it onto the battlefield. if you search your library this way, shuffle it. activate this ability only if there are six or more creature cards in your graveyard.|3{^^^}|0N|1gate to the afterlife|
+
+|5enchantment|4|6aura|7|8|9enchant land\when @ enters the battlefield, you gain &^^^ life.\enchanted land has "T: add two mana of any one color to your mana pool."|3{^^GG}|0O|1gift of paradise|
+
+|5creature|4|6cat|7|8&^/&^|9lifelink\embalm {WW}|3{WW}|0O|1sacred cat|
+
+|5instant|4|6|7|8|9uncast target creature spell.|3{^UU}|0O|1essence scatter|
+
+|5creature|4|6jackal warrior|7|8&^/&^^|9menace\whenever you cycle or discard a card, @ gets +&^/+& until end of turn.|3{RR}|0N|1flameblade adept|
+
+|5instant|4|6|7|8|9untap target creature. it gets +&^^/+&^^ and gains lifelink until end of turn.|3{^WW}|0A|1prepare|
+|5sorcery|4|6|7|8|9aftermath\target creature you control @s target creature an opponent controls.|3{^^^GG}|0A|1fight|
+
+|5creature|4|6jackal warrior|7|8&^^^/&^^^|9trample\other creatures you control have trample.|3{^RRGG}|0N|1khenra charioteer|
+
+|5sorcery|4|6|7|8|9destroy X target artifacts.|3{XXRR}|0N|1by force|
+
+|5creature|4|6insect|7|8&^^^^/&^^^^^|9when @ enters the battlefield, put a -&^/-&^ counter on target creature you control.\whenever @ attacks, remove a -&^/-&^ counter from target creature you control and put a -&^/-&^ counter on up to one target creature defending player controls.|3{^^^BBGG}|0N|1decimator beetle|
+
+|5land|4|6desert|7|8|9T: add {CC} to your mana pool.\{^}, T, sacrifice @: put a -&^/-&^ counter on target creature. activate this ability only any time you could cast a sorcery.|3|0N|1grasping dunes|
+
+|5creature|4|6human druid|7|8&^^^/&^^^^|9when @ enters the battlefield, put three -&^/-&^ counters on target creature you control.\T, remove a -&^/-&^ counter from @: add one mana of any color to your mana pool.|3{^GG}|0A|1channeler initiate|
+
+|5artifact|4legendary|6|7|8|9white creature spells you cast cost {^} less to cast.\whenever you cast a creature spell, create a &^/&^ white warrior creature token with vigilance.|3{^^^}|0N|1oketra's monument|
+
+|5creature|4|6human warrior|7|8&^/&^|9T: target creature gains haste until end of turn.|3{RR}|0O|1bloodlust inciter|
+
+|5creature|4|6bird wizard|7|8&^^/&^|9flash\flying\if an opponent would search a library, that player searches the top four cards of that library instead.|3{^^WW}|0A|1aven mindcensor|
+
+|5creature|4|6zombie naga|7|8&^^^/&^^|9{^^^BB}: target opponent loses &^^ life and you gain &^^ life. activate this ability only if you control a liliana planeswalker.|3{^^BB}|0N|1desiccated naga|
+
+|5enchantment|4|6aura cartouche|7|8|9enchant creature you control\when @ enters the battlefield, create a &^/&^ white warrior creature token with vigilance.\enchanted creature gets +&^/+&^ and has first strike.|3{WW}|0O|1cartouche of solidarity|
+
+|5planeswalker|4|6nissa|7X|8|9+&^^: scry &^^.\&: look at the top card of your library. if it's a land card or a creature card with converted mana cost less than or equal to the number of % counters on @, you may put that card onto the battlefield.\-&^^^^^^: untap up to two target lands you control. they become &^^^^^/&^^^^^ elemental creatures with flying and haste until end of turn. they're still lands.\countertype % loyalty|3{XXGGUU}|0Y|1nissa, steward of elements|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {RR} or {GG} to your mana pool.|3|0O|1timber gorge|
+
+|5creature|4|6bird warrior|7|8&^^/&^^^|9flying\vigilance\embalm {^^^^WWUU}\creature tokens you control have flying and vigilance.|3{^^WWUU}|0N|1aven wind guide|
+
+|5creature|4|6sphinx|7|8&^^^^/&^^^^|9flying\cycling {UU}\whenever you cycle or discard another card, scry &^.|3{^^UUUU}|0A|1curator of mysteries|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {BB} or {RR} to your mana pool.|3|0O|1cinder barrens|
+
+|5land|4basic|6plains|7|8|9|3|0L|1plains|
+
+|5enchantment|4|6|7|8|9whenever you cycle or discard a card, you may pay {^}. if you do, each opponent loses &^^ life and you gain &^^ life.|3{^^BB}|0N|1faith of the devoted|
+
+|5instant|4|6|7|8|9put target spell or nonland permanent into its owner's library second from the top.|3{^^^UU}|0A|1commit|
+|5sorcery|4|6|7|8|9aftermath\each player shuffles his or her hand and graveyard into his or her library, then draws seven cards.|3{^^^^UUUU}|0A|1memory|
+
+|5land|4|6desert|7|8|9when @ enters the battlefield, it deals &^ damage to target player.\T: add {CC} to your mana pool.|3|0O|1sunscorched desert|
+
+|5artifact|4|6|7|8|9activated abilities of creature cards in your graveyard cost {^} less to activate.\tap an untapped zombie you control: target player puts the top card of his or her library into his or her graveyard.|3{^^}|0N|1embalmer's tools|
+
+|5creature|4|6human wizard|7|8&^^/&^|9T: target creature with power &^^ or less can't be blocked this turn.|3{^RR}|0O|1pathmaker initiate|
+
+|5land|4|6island swamp|7|8|9cycling {^^}\@ enters the battlefield tapped.|3|0A|1fetid pools|
+
+|5enchantment|4|6|7|8|9at the beginning of combat on your turn, you may have target creature you control get +&^^/+& and gain haste until end of turn. if you do, sacrifice it at the beginning of the next end step.|3{^^RR}|0A|1hazoret's favor|
+
+|5instant|4|6|7|8|9target creature gets +&^^^/+&^ and gains trample until end of turn.|3{^RR}|0O|1brute strength|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {WW} or {UU} to your mana pool.|3|0O|1meandering river|
+
+|5sorcery|4|6|7|8|9put a -&^/-&^ counter on each creature you don't control. you may search your library and/or graveyard for a card named liliana, death wielder, reveal it, and put it into your hand. if you search your library this way, shuffle it.|3{^^^^BBBB}|0A|1liliana's influence|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {GG} or {UU} to your mana pool.|3|0O|1woodland stream|
+
+|5creature|4|6zombie|7|8&^^/&^^|9whenever another zombie enters the battlefield under your control, each opponent loses &^ life and you gain &^ life.|3{WWBB}|0N|1wayward servant|
+
+|5creature|4legendary|6god|7|8&^^^/&^^^^^^|9double strike\indestructible\@ can't attack or block unless you control at least three other creatures.\{^^^WW}: create a &^/&^ white warrior creature token with vigilance.|3{^^^WW}|0Y|1oketra the true|
+
+|5creature|4|6jackal warrior|7|8&^^^^/&^^^^|9you may exert @ as it attacks.\whenever you exert a creature, creatures you control get +&^/+& until end of turn.|3{^^^^RR}|0N|1trueheart twins|
+
+|5instant|4|6|7|8|9target creature gets +&^^/+&^^ until end of turn. you may remove a -&^/-&^ counter from it.|3{GG}|0O|1shed weakness|
+
+|5land|4basic|6forest|7|8|9|3|0L|1forest|
+
+|5land|4|6|7|8|9T, sacrifice @: search your library for a basic land card and put it onto the battlefield tapped. then shuffle your library.|3|0O|1evolving wilds|
+
+|5land|4|6desert|7|8|9T: add {CC} to your mana pool.\{^^^}, T, sacrifice @: create a &^^/&^^ black zombie creature token. activate this ability only any time you could cast a sorcery.|3|0O|1cradle of the accursed|
+
+|5creature|4|6human cleric|7|8&^^/&^^^|9whenever you cycle or discard a card, @ gets +&^/+&^ until end of turn.|3{^^UU}|0O|1hekma sentinels|
+
+|5creature|4|6angel|7|8&^^^^/&^^^^|9flying\indestructible|3{^^^^^WWWW}|0N|1seraph of the suns|
+
+|5creature|4|6human wizard|7|8&^/&^^|9prowess\if a source you control would deal noncombat damage to a creature an opponent controls, put that many -&^/-&^ counters on that creature instead.|3{RR}|0A|1soul~scar mage|
+
+|5creature|4|6lizard|7|8&^^^/&^^|9@ gets +&^/+&^^ as long as you have one or fewer cards in hand.|3{^^RR}|0O|1thresher lizard|
+
+|5land|4|6|7|8|9@ enters the battlefield tapped.\T: add {WW} or {BB} to your mana pool.|3|0O|1forsaken sanctuary|
+
+|5creature|4|6illusion warrior|7|8&^^/&^^^|9embalm {^^^UU}\when @ becomes the target of a spell, sacrifice it.|3{^UU}|0N|1labyrinth guardian|
+
+|5enchantment|4|6|7|8|9at the beginning of your upkeep, put a % counter on @.\once each turn, you may pay {} rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of % counters on @.\countertype % time|3{^^UU}|0Y|1as foretold|
+
+|5enchantment|4|6|7|8|9when @ enters the battlefield, draw three cards.\as long as you have seven or more cards in hand, you may pay {} rather than pay cycling costs.|3{^^^^^UU}|0A|1new perspectives|
+
+|5creature|4|6human cleric|7|8&^/&^^^|9cycling {^UU}\T: untap another target permanent.\when you cycle @, untap target permanent.|3{^^UU}|0N|1vizier of tumbling sands|
+
+|5artifact|4|6|7|8|9{^^}, T: add one mana of any color to your mana pool. put a brick counter on @.\T: add three mana of any one color to your mana pool. activate this ability only if there are three or more brick counters on @.|3{^}|0A|1pyramid of the pantheon|
+
+|5sorcery|4|6|7|8|9search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.|3{^^GG}|0N|1spring|
+|5instant|4|6|7|8|9aftermath\draw two cards.|3{^^^^UUUU}|0N|1mind|
+
+|5creature|4|6bird wizard|7|8&^^/&^^|9flying\whenever you cycle or discard a card, target creature gains flying until end of turn.|3{^^^UU}|0N|1zenith seeker|
+
+|5enchantment|4|6|7|8|9creatures with flying can't attack you or planeswalkers you control.\at the beginning of your end step, create a &^^^^^/&^^^^^ green wurm creature token.|3{^^^^^^GGGG}|0A|1sandwurm convergence|
+
+|5sorcery|4|6|7|8|9destroy all creatures with power &^^^ or greater.|3{^^WWWW}|0A|1dusk|
+|5sorcery|4|6|7|8|9aftermath\return all creature cards with power &^^ or less from your graveyard to your hand.|3{^^^WWWW}|0A|1dawn|
+
+|5enchantment|4|6aura curse|7|8|9enchant player\at the beginning of enchanted player's upkeep, that player sacrifices a creature or planeswalker. if the player can't, he or she loses &^^^^^ life.|3{^^^^^BBBB}|0Y|1cruel reality|
+
+|5sorcery|4|6|7|8|9return up to two target cards with cycling from your graveyard to your hand.|3{^^^UU}|0N|1sacred excavation|
+
+|5creature|4|6human warrior|7|8&^^^/&^|9you may exert @ as it attacks. when you do, it gets +&^/+& and gains first strike until end of turn.|3{^^WW}|0O|1rhet~crop spearmaster|
+
+|5land|4|6desert|7|8|9T: add {CC} to your mana pool.\{^}, T: add one mana of any color to your mana pool.|3|0O|1painted bluffs|
+
+|5creature|4|6zombie jackal|7|8&^/&^^|9when @ dies, each opponent loses &^^ life.|3{^BB}|0O|1tattered mummy|
+
+|5artifact|4legendary|6|7|8|9black creature spells you cast cost {^} less to cast.\whenever you cast a creature spell, each opponent loses &^ life and you gain &^ life.|3{^^^}|0N|1bontu's monument|
+
+|5creature|4|6naga cleric|7|8&^^^/&^^^^|9you may look at the top card of your library.\you may cast the top card of your library if it's a creature card.\you may spend mana as though it were mana of any type to cast creature spells.|3{^^^GG}|0Y|1vizier of the menagerie|
+
+|5enchantment|4|6|7|8|9flash\cycling {WW}\when @ enters the battlefield, exile target nonland permanent an opponent controls until @ leaves the battlefield.|3{^^^WW}|0N|1cast out|
+
+|5enchantment|4|6|7|8|9if a source an opponent controls would deal damage to you, prevent &^ of that damage.|3{^^^^WW}|0N|1protection of the hekma|
+
